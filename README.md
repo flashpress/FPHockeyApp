@@ -8,4 +8,4 @@
 ```
 
 #Help
-Visit the [wiki page](wiki) to get help.
+Visit the [wiki page](https://github.com/flashpress/FPHockeyApp/wiki) to get help.
